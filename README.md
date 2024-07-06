@@ -21,7 +21,7 @@ Synth-Racer is a simple arcade-style game developed in Unity using C#. The playe
 - Gradually increasing difficulty to keep the game challenging.
   
 ### Installation
-- Clone the repository: git clone https://github.com/your/repository.git
+- Clone the repository: git clone https://github.com/sblevins-dev/Synth-Racer.git
 - Open the project in Unity.
 - Navigate to the main scene (Assets/Scenes/MainScene.unity).
 - Press Play in the Unity Editor to start the game.

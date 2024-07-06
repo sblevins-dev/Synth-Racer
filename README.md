@@ -39,11 +39,8 @@ Synth-Racer is a simple arcade-style game developed in Unity using C#. The playe
 - Implement a high score system with local or online leaderboard.
 
 ### Contributing
-- Contributions are welcome! If you have any suggestions, please create a pull request or open an issue.
+Contributions are welcome! If you have any suggestions, please create a pull request or open an issue.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
+### Acknowledgments
 Thanks to Unity Technologies for providing such a robust game development platform.
 Inspiration for the game concept from classic arcade games.
